@@ -1,4 +1,8 @@
 # Conversion de deux téléphones S63 en interphones WiFi
+{:.no_toc}
+
+1. The generated Toc will be an ordered list
+{:toc}
 
 ## Préparation du téléphone
 
